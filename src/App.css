@@ -1,0 +1,40 @@
+
+.App {
+    padding: 5px;
+}
+
+.row {
+  margin-bottom: 10px;
+}
+
+.contractCol {
+  border: 1px solid rgba(0, 0, 0, .15);
+  padding: 5px 10px;
+  border-radius: 5px;
+}
+
+.contractPannel {
+  border: 1px solid rgba(0, 0, 0, .15);
+  border-radius: 5px;
+  padding: 10px 5px;
+  margin-bottom: 10px;
+}
+
+.abiInputsPannel {
+  background-color: rgba(0, 0, 0, .12);
+  border-radius: 5px;
+  padding: 5px 5px;
+  margin: 10px;
+}
+
+.successColor {
+    color: #52c41a;
+}
+
+.alertColor {
+    color: #faad14;
+}
+
+.errorColor {
+    color: rgb(255, 96, 59);
+}

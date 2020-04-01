@@ -1,0 +1,50 @@
+{
+  "name": "lkchain-remix",
+  "version": "0.1.0",
+  "homepage": ".",
+  "dependencies": {
+    "@ant-design/icons": "^4.0.3",
+    "@reduxjs/toolkit": "^1.2.5",
+    "@remixproject/plugin": "^0.1.18",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.5.0",
+    "@testing-library/user-event": "^7.2.1",
+    "antd": "^3.26.14",
+    "copy-to-clipboard": "^3.3.1",
+    "ethers": "^4.0.46",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-redux": "^7.2.0",
+    "react-scripts": "3.4.1",
+    "underscore": "^1.9.2",
+    "web3": "^1.2.6"
+  },
+  "scripts": {
+    "start": "react-app-rewired start",
+    "build": "react-app-rewired build",
+    "test": "react-app-rewired test",
+    "eject": "react-app-rewired eject",
+    "deploy": "gh-pages -d build"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "babel-plugin-import": "^1.13.0",
+    "customize-cra": "^0.9.1",
+    "gh-pages": "^2.2.0",
+    "react-app-rewired": "^2.1.5"
+  }
+}

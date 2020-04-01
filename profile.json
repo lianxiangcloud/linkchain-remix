@@ -1,0 +1,10 @@
+{
+  "name": "linkchain-remix",
+  "displayName": "LinkChain",
+  "methods": [],
+  "version": "1.0.0-alpha",
+  "url": "<URL>",
+  "description": "linkchain plugin for remix support for develop and interact your contracts on linkchain",
+  "icon": "https://lkchain.org/static/images/icon/icon.png",
+  "location": "sidePanel"
+}
